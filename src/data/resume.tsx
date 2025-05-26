@@ -11,14 +11,15 @@ export const DATA = {
     "Software Engineer . Passionate about building scalable web apps & solving problems. Always learning & exploring new tech. 🚀",
   summary:
     "As a final-year Information Technology student, I'm passionate about building scalable and efficient web applications. Over the years, I’ve honed my skills in React, Next.js, Node.js, and SQL, developing full-stack projects that solve real-world problems. I’ve contributed to open-source projects, solved 500+ coding problems, and actively explored AI-powered solutions. Beyond coding, I enjoy participating in hackathons, diving into cybersecurity challenges, and continuously learning new technologies to stay ahead.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "React",
     "Next.js",
     "Typescript",
     "Node.js",
     "Python",
-    "Postgres",
+    "PostgreSQL",
+    "MongoDB",
     "Docker",
     "C++",
   ],
